@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gabridefreitas/static/css/main.073c9b0a.css",
+    "main.js": "/gabridefreitas/static/js/main.06b71817.js",
+    "static/js/787.6fdbcff5.chunk.js": "/gabridefreitas/static/js/787.6fdbcff5.chunk.js",
+    "static/media/logo.svg": "/gabridefreitas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gabridefreitas/index.html",
+    "main.073c9b0a.css.map": "/gabridefreitas/static/css/main.073c9b0a.css.map",
+    "main.06b71817.js.map": "/gabridefreitas/static/js/main.06b71817.js.map",
+    "787.6fdbcff5.chunk.js.map": "/gabridefreitas/static/js/787.6fdbcff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.06b71817.js"
+  ]
+}
