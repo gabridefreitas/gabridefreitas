@@ -6,6 +6,4 @@
 
 - 👨🏻‍💻 Working with React Native
 - 👨🏻‍🎓 Studying Computer Science
-- 💻 Learning Typescript
-- 📫 Check my website
 - 🚀 Crescer 2021/1
